@@ -25,3 +25,8 @@ cd <Your Name Environment>\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 
+### Step 5: Run program
+```bash
+python application.py
+```
+
